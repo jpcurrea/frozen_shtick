@@ -21,7 +21,7 @@
 **Class**: [To be filled in]  
 
 **Physical Description**:
-- Red skin
+- Blue skin
 - Horns (specific details TBD)
 - Eyes that reflect firelight
 - [Additional details TBD]
@@ -58,7 +58,7 @@
 
 ### Jwala (Player Character)
 **Race**: Dragonborn (Bronze and Red heritage)  
-**Class**: [To be filled in]  
+**Class**: Druid 
 **Alignment**: Chaotic Neutral
 
 **Physical Description**:
@@ -78,7 +78,7 @@
 - **Defiant**: Questions authority and challenges established order
 - **Passionate**: Driven by emotion and strong convictions
 - **Champion of true justice**: Values moral justice over legal justice
-- **Liberator at heart**: Wants to free those who are oppressed
+- **Liberator at heart**: Compelled to free those who are oppressed
 - Direct and fiery in demeanor
 
 **Notable Behaviors**:
@@ -100,7 +100,7 @@
 
 ### Serelion (Player Character)
 **Race**: High Elf  
-**Class**: [To be filled in]  
+**Class**: Monk  
 **Alignment**: Neutral Good
 
 **Physical Description**:
@@ -301,8 +301,8 @@
 
 ### Blue Vials
 **Type**: Magical/alchemical items from Eiselcross  
-**Origin**: Brought back by Urgon Wenth from Eiselcross  
-**Original Count**: At least 2 vials (brought by Urgon)  
+**Origin**: Brought back by Urgon Wenth from Eiselcross
+**Original Count**: At least 2 vials (brought by Urgon)
 **Status**: Stolen by Tulgi Latan approximately one month before Session 1  
 **Previous Location**: Pelc's Curiosities (after Urgon's death)  
 **Current Location**: Unknown (were in Croker's Cave, current whereabouts uncertain)  
