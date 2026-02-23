@@ -18,7 +18,7 @@
 
 ### Arakki (Player Character)
 **Race**: Tiefling  
-**Class**: [To be filled in]  
+**Class**: Paladin *(🔒 class revealed Session 4 — used Lay on Hands)*  
 
 **Physical Description**:
 - Blue skin
@@ -27,7 +27,7 @@
 - [Additional details TBD]
 
 
-**Observed Personality Traits** *(Player-Safe)*:
+**Observed Personality Traits**:
 - Keeps to herself, watchful
 - Recently arrived in Palebank Village  
 - Works manual labor (mending nets, gutting fish)
@@ -37,7 +37,7 @@
 **Powers & Abilities**:
 - Fire magic (carefully concealed in daily life)
 - Deadly fire bolt (punched a hole through a bandit's chest in Session 2)
-- [Specific class abilities TBD]
+- **Lay on Hands** (Paladin feature — healed a party member for 10 HP, Session 4)
 
 
 
@@ -96,9 +96,69 @@
 - Time in village: At least 6 months
 - [Additional details TBD]
 
+
+
+Jwala has never known what to do with them. But she has never forgotten them.
+
 ---
 
-### Serelion (Player Character)
+*Story One: The Phoenix and the Falling Tower*
+*(Hints at WHERE — the floating city, the fallen spire, the inverted tower deep in Eiselcross)*
+
+*There was a phoenix once that lived high above the world, in a tower that touched the clouds. It was not wild — it was kept by a great warrior who served a god of fire, and the tower was his, and the phoenix lived within it, and the city beneath them both floated between the earth and the sky like a jewel on a string.*
+
+*Then the string was cut.*
+
+*The tower broke, and the phoenix fell. Past the warm winds. Past the sea. Past the last of the light, until it struck the earth at the edge of the world and drove itself deep into the dark — into an island that breathes smoke through the ice, where the ground stays warm even under the frost because something below has been burning for a very long time.*
+
+*The tower is still there. But now it points the wrong way.*
+
+*“But if the phoenix can fly,” she asked, “why doesn’t it just climb out?”*
+
+*That, her father always said, was exactly the right question.*
+
+---
+
+*Story Two: The People Who Loved the Phoenix Too Much*
+*(Hints at WHO — the cult living in the inverted ruins, calling captivity protection)*
+
+*There were people who found the phoenix once, deep in the earth, at the bottom of a tower that had fallen so far it came out the other side of somewhere.*
+
+*They built their home in that underground place. The corridors curved the wrong way. The walls that had once been ceilings kept the cold out, and the floors that had once been open sky looked down into nothing. They called the phoenix holy. They called themselves its keepers. They fed it from their own hands and sang to it at morning and evening — even underground, where the only morning was the glow from the phoenix itself.*
+
+*“We keep it safe,” they told one another.*
+
+*But the phoenix beat its wings against the old stone until its feathers burned away to nothing, and by morning it was whole again, and the walls of the broken tower were still there.*
+
+*“If you truly loved something,” her father said when he finished, “you would know the difference between keeping it safe and keeping it.”*
+
+---
+
+*Story Three: The King Who Feared the Flame*
+*(Hints at WHY — the Age of Arcanum, Ares, the Fire God’s champion, and the fall as the first cage)*
+
+*There was a king who ruled the sky. He had a thousand swords and every wind obeyed him. But there was a warrior in a floating city who served a god the king feared — a warrior who kept a bird unlike any other in a tower above the clouds, and that bird’s fire had burned since before kingdoms were named.*
+
+*“As long as it lives freely,” the king told his son, “it may one day light the way for our enemies.”*
+
+*“Then let me break the tower,” his son said. “The bird will scatter on the wind.”*
+
+*The king said yes. And the son went to the floating city and broke the tower at its root, and the bird did not scatter — it fell. It fell through everything. Through the sky and the wind and the cold, until it struck the earth at the edge of the world and did not come back up.*
+
+*The cage was not something the son built. The cage was the fall itself — the broken tower, the cold earth, the dark pressing in from every side. The son only found it later and put a lock on the door.*
+
+*He told everyone he was doing it out of love.*
+
+*Her father never said whose story it was. He never said if the city really floated, or if the tower really fell, or if the bird was real at all. He only folded the blanket up under her chin and told her that some cages are built out of fear and called love, and she should always know the difference.*
+
+---
+
+**What Jwala Knows vs. Doesn't Know**:
+- **Knows**: The three stories; a vague family knowledge that they were "taken" somewhere north, generations ago; that something about a caged phoenix stirs in her a compulsion she cannot explain
+- **Doesn't know**: That the stories are encoded history; that the Caged Phoenix Cult enslaved her family; that Varen is the person the third story describes; that the phoenix fell from a floating city in the Age of Arcanum; that the Nest is a literal inverted spire driven into Eiselcross; that the phoenix she's compelled to free is the Fire God's daughter
+- **Her current state**: She doesn't know if the phoenix is real. She doesn't know if it can be freed. She doesn't even know if the cage in the stories is literal. But the letter she read in Druidic set something alight in her that she hasn't been able to name since she heard those stories as a child. She cannot leave it alone.
+
+---
 **Race**: High Elf  
 **Class**: Monk  
 **Alignment**: Neutral Good
@@ -225,6 +285,18 @@
 
 ---
 
+#### Vesper
+**Type**: Small humanoid — described by the polar bears (via Speak with Animals) as "little man," dark elf-like appearance  
+**Affiliation**: The Caged Phoenix Cult (scout)  
+**Role**: Sent out by The Hollow Flame to find the party and bring them to the Nest  
+**First Referenced**: Session 4 (letter found at abandoned campsite addressed to them)  
+**Status**: At large — departed by boat from the northern coastline approximately 4 hours before the party arrived  
+**Likely Destination**: Eiselcross (confirmed by boat launch evidence and map found at camp)  
+**Key Detail**: The letter addressed to Vesper was written in Druidic — suggesting either cult ties to Druidic practice, or deliberate messaging aimed at someone in the party who could read it  
+**Intent**: Ambiguous — ordered to bring the party to the Nest "by whatever judgment the moment allows"
+
+---
+
 ## World-Building & Locations
 
 ### Palebank Village
@@ -253,6 +325,7 @@
 
 **Notable Locations**:
 - **Pelc's Curiosities**: Shop that was robbed by Tulgi Latan about a month before Session 1, ransacked again by elf bandits in Session 2
+- **Jolly Dwarf Tavern**: Local tavern; a person of interest was seen here (Session 4 hook — details TBD)
 
 **Significance**:
 - Remote location far from major cities
@@ -266,7 +339,8 @@
 **Type**: Distant location (northern region)  
 **Significance**: Source of the mysterious blue vials  
 **Connection**: Urgon Wenth brought back two blue vials from this location  
-**Status**: Not yet visited by party  
+**Status**: Not yet visited by party; confirmed as likely destination of the Caged Phoenix scout Vesper based on boat launch evidence and map found in Session 4  
+**Possible Entry Point**: Map found at Vesper's camp shows a labeled destination on Eiselcross — possibly Syrinlya (see DM To-Do: Explorer's Guide to Wildemount)  
 **Notes**: [Additional details TBD as campaign progresses]
 
 ---
@@ -294,6 +368,23 @@
 - Connected to stolen blue vials mystery
 - Hulil Latan's bandit hideout
 - Contains mysterious dragon-faced chest
+
+---
+
+### Northern Coastline (Near Palebank Village)
+**Type**: Coastline / boat launch point  
+**Location**: North of the abandoned campsite, accessible via trail from the road between Croker's Cave and Palebank Village
+
+**Discovered**: Session 4  
+**Features**:
+- Marks in the snow and sand consistent with a small boat being launched recently
+- Trail of footprints leads from the abandoned campsite to this point and stops at the water's edge
+- Departure route points toward Eiselcross
+
+**Significance**:
+- Confirmed departure point for Vesper (the Caged Phoenix scout)
+- Establishes that the cult, or at least its scouts, have ready access to boats and know the northern sea routes
+- Points the party toward Eiselcross as the next major destination
 
 ---
 
@@ -359,6 +450,29 @@
 **Current Location**: Still in Croker's Cave  
 **Significance**: Unknown, mysterious object near infected bandit leader
 
+### Brass Caged Phoenix Medallion
+**Type**: Personal effect / faction symbol  
+**Found**: Vesper's abandoned campsite, in a satchel under the bedroll (Session 4)  
+**Description**: Small brass medallion depicting a phoenix in mid-flight, wings spread wide, enclosed within a circle of thin interlocking bars  
+**Current Holder**: Party (acquired Session 4)  
+**Significance**: Symbol of the Caged Phoenix Cult; no PC currently knows what organization it represents
+
+### Caged Phoenix Map
+**Type**: Intelligence item / navigation aid  
+**Found**: Vesper's abandoned campsite, in a satchel (Session 4)  
+**Description**: Rough hand-drawn map of the area surrounding Palebank Village; Croker's Cave marked with a scratched X; dotted line traces the road back toward town; destination on Eiselcross labeled (possibly Syrinlya)  
+**Current Holder**: Party (acquired Session 4)  
+**Significance**: Confirms the scout was tracking the party's movements; provides a potential route to the Caged Phoenix Cult's location on Eiselcross
+
+### Brass Caged Phoenix Letter
+**Type**: Intelligence item / plot document  
+**Found**: Vesper's abandoned campsite, sealed with dark red wax (Session 4)  
+**Language**: Written in Druidic (readable by Jwala)  
+**Author**: The Hollow Flame (cult leader)  
+**Addressed To**: Vesper (the scout)  
+**Current Holder**: Party (acquired Session 4)  
+**Significance**: Describes a prophetic vision of the party; orders Vesper to bring them to the Nest; reveals Frigid Woe has reached the cult (30% infected, half dead); ambiguous tone leaves intent unknown
+
 ---
 
 ---
@@ -408,7 +522,14 @@
 - Learns disease came from contact with stolen blue vials
 - Party commits to finding a cure for Frigid Woe
 
-- [Future events TBD as campaign progresses]
+**Session 4 - The Road Home**:
+- Party discovered abandoned campsite on the road back to Palebank Village
+- Found brass caged phoenix medallion, sealed letter (written in Druidic), and a hand-drawn map marking Croker's Cave with an X
+- Letter written by "The Hollow Flame" to a scout named Vesper — described a vision of the party and ordered Vesper to bring them to "the Nest"
+- 🔒 Arakki used **Lay on Hands** to heal Serelion for 10 HP after bear attack (reveals Paladin class)
+- Jwala cast **Speak with Animals** on the polar bears; learned a "little man" (small, dark elf-like) had left the camp ~4 hours prior, heading north
+- Tracked footprints north to the coastline — boat launch marks confirm Vesper departed by water toward Eiselcross
+- Party plans to return to Palebank Village, rest, report to Elro Aldataur, investigate Jolly Dwarf tavern, then pursue by boat
 
 ---
 
@@ -513,6 +634,50 @@
 - How is Hulil Latan connected to the larger mystery?
 - What is inside the dragon-faced chest beside Hulil's bed?
 - What is happening in Eiselcross that's producing these dangerous vials?
+
+---
+
+#### Session 4: The Road Home
+**Location**: Road between Croker's Cave and Palebank Village; northern coastline  
+**Key Events**:
+- Discovered a hastily abandoned campsite tucked off the road — one person, recently vacated in a hurry
+- Campsite contained a satchel with frozen rations, flint and steel, a **brass caged phoenix medallion**, a **sealed letter written in Druidic**, and a **hand-drawn map** with Croker's Cave marked with an X
+- **Jwala** could read the letter (Druidic); it was written by someone called "The Hollow Flame" to a scout named "Vesper"
+- The letter described a prophetic vision of three strangers matching the party's descriptions, seen inside a place called "the Nest" — Vesper was sent out to find them and bring them back, intent deliberately ambiguous
+- Two **polar bears** arrived to claim the roasted fish abandoned at the cold fire pit
+- **Serelion** (also referred to as "Cerulean" in session notes) approached to investigate and was attacked, taking 10 damage
+- **Arakki** healed Serelion for 10 HP using **Lay on Hands** 🔒*(Paladin class revealed)*
+- **Jwala** cast **Speak with Animals** on the departing bears; learned a "little man" (small, dark elf-like) had left the camp approximately 4 hours prior, heading north toward the coast
+- Party tracked footprints north and found boat launch marks at the shoreline — Vesper departed by boat toward Eiselcross
+- Party resolved to return to Palebank Village to rest, resupply, report to Elro Aldataur, and investigate a person of interest at the **Jolly Dwarf Tavern** before pursuing Vesper by sea
+
+**Key Items Acquired**:
+- **Brass Caged Phoenix Medallion**: Symbol of an unknown organization
+- **Sealed Letter (Druidic)**: Written by The Hollow Flame to Vesper, describing the party and ordering their retrieval
+- **Caged Phoenix Map**: Shows Palebank area with Croker's Cave marked, and a route north toward Eiselcross (destination possibly Syrinlya)
+
+**NPCs Introduced**:
+- **Vesper** (absent): Small, dark elf-like scout; departed by boat ~4 hours before party arrived; destination likely Eiselcross
+- **The Hollow Flame** (via letter): Leader of the Caged Phoenix Cult; prophetic, educated, intent unknown
+
+**Active Quests**:
+- Find a cure for Frigid Woe
+- Investigate the Caged Phoenix Cult and their connection to the disease
+- Pursue Vesper to Eiselcross
+
+**New Mysteries** *(Player-Safe)*:
+- Who is Vesper, and what are their true intentions?
+- Who or what is the Caged Phoenix Cult? What is "the Nest"?
+- Why was the letter written in Druidic? Cult connection to druidic practice, or deliberate?
+- The cult has Frigid Woe too — same source as Palebank's outbreak, or different?
+- Who is the person of interest at the Jolly Dwarf Tavern?
+- Where exactly on Eiselcross is the Nest?
+
+**Next Steps**:
+- Return to Palebank Village to rest and resupply
+- Report findings to Chief Elro Aldataur
+- Investigate Jolly Dwarf Tavern (person of interest)
+- Secure boat transportation to Eiselcross
 
 ## Quick Reference: Names & Pronunciations
 
