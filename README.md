@@ -18,7 +18,7 @@
 
 ### Arakki (Player Character)
 **Race**: Tiefling  
-**Class**: Paladin *(🔒 class revealed Session 4 — used Lay on Hands)*  
+**Class**: Paladin
 
 **Physical Description**:
 - Blue skin
@@ -96,69 +96,8 @@
 - Time in village: At least 6 months
 - [Additional details TBD]
 
-
-
-Jwala has never known what to do with them. But she has never forgotten them.
-
 ---
-
-*Story One: The Phoenix and the Falling Tower*
-*(Hints at WHERE — the floating city, the fallen spire, the inverted tower deep in Eiselcross)*
-
-*There was a phoenix once that lived high above the world, in a tower that touched the clouds. It was not wild — it was kept by a great warrior who served a god of fire, and the tower was his, and the phoenix lived within it, and the city beneath them both floated between the earth and the sky like a jewel on a string.*
-
-*Then the string was cut.*
-
-*The tower broke, and the phoenix fell. Past the warm winds. Past the sea. Past the last of the light, until it struck the earth at the edge of the world and drove itself deep into the dark — into an island that breathes smoke through the ice, where the ground stays warm even under the frost because something below has been burning for a very long time.*
-
-*The tower is still there. But now it points the wrong way.*
-
-*“But if the phoenix can fly,” she asked, “why doesn’t it just climb out?”*
-
-*That, her father always said, was exactly the right question.*
-
----
-
-*Story Two: The People Who Loved the Phoenix Too Much*
-*(Hints at WHO — the cult living in the inverted ruins, calling captivity protection)*
-
-*There were people who found the phoenix once, deep in the earth, at the bottom of a tower that had fallen so far it came out the other side of somewhere.*
-
-*They built their home in that underground place. The corridors curved the wrong way. The walls that had once been ceilings kept the cold out, and the floors that had once been open sky looked down into nothing. They called the phoenix holy. They called themselves its keepers. They fed it from their own hands and sang to it at morning and evening — even underground, where the only morning was the glow from the phoenix itself.*
-
-*“We keep it safe,” they told one another.*
-
-*But the phoenix beat its wings against the old stone until its feathers burned away to nothing, and by morning it was whole again, and the walls of the broken tower were still there.*
-
-*“If you truly loved something,” her father said when he finished, “you would know the difference between keeping it safe and keeping it.”*
-
----
-
-*Story Three: The King Who Feared the Flame*
-*(Hints at WHY — the Age of Arcanum, Ares, the Fire God’s champion, and the fall as the first cage)*
-
-*There was a king who ruled the sky. He had a thousand swords and every wind obeyed him. But there was a warrior in a floating city who served a god the king feared — a warrior who kept a bird unlike any other in a tower above the clouds, and that bird’s fire had burned since before kingdoms were named.*
-
-*“As long as it lives freely,” the king told his son, “it may one day light the way for our enemies.”*
-
-*“Then let me break the tower,” his son said. “The bird will scatter on the wind.”*
-
-*The king said yes. And the son went to the floating city and broke the tower at its root, and the bird did not scatter — it fell. It fell through everything. Through the sky and the wind and the cold, until it struck the earth at the edge of the world and did not come back up.*
-
-*The cage was not something the son built. The cage was the fall itself — the broken tower, the cold earth, the dark pressing in from every side. The son only found it later and put a lock on the door.*
-
-*He told everyone he was doing it out of love.*
-
-*Her father never said whose story it was. He never said if the city really floated, or if the tower really fell, or if the bird was real at all. He only folded the blanket up under her chin and told her that some cages are built out of fear and called love, and she should always know the difference.*
-
----
-
-**What Jwala Knows vs. Doesn't Know**:
-- **Knows**: The three stories; a vague family knowledge that they were "taken" somewhere north, generations ago; that something about a caged phoenix stirs in her a compulsion she cannot explain
-- **Doesn't know**: That the stories are encoded history; that the Caged Phoenix Cult enslaved her family; that Varen is the person the third story describes; that the phoenix fell from a floating city in the Age of Arcanum; that the Nest is a literal inverted spire driven into Eiselcross; that the phoenix she's compelled to free is the Fire God's daughter
-- **Her current state**: She doesn't know if the phoenix is real. She doesn't know if it can be freed. She doesn't even know if the cage in the stories is literal. But the letter she read in Druidic set something alight in her that she hasn't been able to name since she heard those stories as a child. She cannot leave it alone.
-
----
+### Serelion (Player Character)
 **Race**: High Elf  
 **Class**: Monk  
 **Alignment**: Neutral Good
@@ -450,30 +389,28 @@ Jwala has never known what to do with them. But she has never forgotten them.
 **Current Location**: Still in Croker's Cave  
 **Significance**: Unknown, mysterious object near infected bandit leader
 
-### Brass Caged Phoenix Medallion
+### Vesper's Brass Medallion
 **Type**: Personal effect / faction symbol  
 **Found**: Vesper's abandoned campsite, in a satchel under the bedroll (Session 4)  
 **Description**: Small brass medallion depicting a phoenix in mid-flight, wings spread wide, enclosed within a circle of thin interlocking bars  
 **Current Holder**: Party (acquired Session 4)  
-**Significance**: Symbol of the Caged Phoenix Cult; no PC currently knows what organization it represents
+**Significance**: Unclear
 
-### Caged Phoenix Map
+### Vesper's Map
 **Type**: Intelligence item / navigation aid  
 **Found**: Vesper's abandoned campsite, in a satchel (Session 4)  
 **Description**: Rough hand-drawn map of the area surrounding Palebank Village; Croker's Cave marked with a scratched X; dotted line traces the road back toward town; destination on Eiselcross labeled (possibly Syrinlya)  
 **Current Holder**: Party (acquired Session 4)  
-**Significance**: Confirms the scout was tracking the party's movements; provides a potential route to the Caged Phoenix Cult's location on Eiselcross
+**Significance**: Confirms Vesper was tracking the party's movements
 
-### Brass Caged Phoenix Letter
+### Vesper's Letter
 **Type**: Intelligence item / plot document  
 **Found**: Vesper's abandoned campsite, sealed with dark red wax (Session 4)  
 **Language**: Written in Druidic (readable by Jwala)  
-**Author**: The Hollow Flame (cult leader)  
-**Addressed To**: Vesper (the scout)  
+**Author**: The Hollow Flame  
+**Addressed To**: Vesper
 **Current Holder**: Party (acquired Session 4)  
-**Significance**: Describes a prophetic vision of the party; orders Vesper to bring them to the Nest; reveals Frigid Woe has reached the cult (30% infected, half dead); ambiguous tone leaves intent unknown
-
----
+**Significance**: Describes a prophetic vision of the party; orders Vesper to bring them to the Nest; reveals that 30% of their society is infected, half dead with something similar to frigid woe; ambiguous tone leaves intent unknown
 
 ---
 
@@ -696,8 +633,3 @@ Jwala has never known what to do with them. But she has never forgotten them.
 - Urgon Wenth - Deceased villager
 - Tulgi Latan - Infected thief
 - Hulil Latan - Bandit leader
-
-
-
----
-
